@@ -1,4 +1,4 @@
 # REQUERIMIENTOS FUNCIONALES
 
-esto es una prueba de funcionamiento.
+Esto es una prueba de funcionamiento.
 
