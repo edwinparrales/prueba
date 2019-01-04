@@ -1,6 +1,6 @@
 # REQUERIMIENTOS FUNCIONALES
 
-Esto es una prueba de funcionamiento.
+😁 Esto es una prueba de funcionamiento.
 
 ## Prueba.
 
